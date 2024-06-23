@@ -7,7 +7,7 @@ Dev-Board was created in order to manage multiple projects ideas and To do over 
 - Completed
 - Abandoned
 
-The cards created can be dragged from one category to another. The cards placed in the Completed category will be moved into the archive. Tha cards placed in the Abandoned category will be moved in the Trash. The time before cards move can be ajusted to one of these settings :
+The cards created can be dragged from one category to another. The cards placed in the Completed category will be moved into the archive. The cards placed in the Abandoned category will be moved in the Trash. The time before cards move can be ajusted to one of these settings :
 
 - 30 days (Default value) 
 - 60 days
