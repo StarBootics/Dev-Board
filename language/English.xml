@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Language>
+  <Messages>
+  	<Message Key="0" Text="Dev-Board"/>
+  	<Message Key="1" Text="Ideas and To do"/>
+  	<Message Key="2" Text="In Progress"/>
+  	<Message Key="3" Text="Completed"/>
+  	<Message Key="4" Text="Abandoned"/>
+  	<Message Key="5" Text="Archives"/>
+  	<Message Key="6" Text="Trash"/>
+  	<Message Key="7" Text="Create new Project"/>
+  	<Message Key="8" Text="Project name"/>
+  	<Message Key="9" Text="Create"/>
+  	<Message Key="10" Text="Add"/>
+  	<Message Key="11" Text="OK"/>
+  	<Message Key="12" Text="Cancel"/>
+  	<Message Key="13" Text="Close"/>
+  	<Message Key="14" Text="Select the project to open"/>
+  	<Message Key="15" Text="Dev-Board Project (*.dbp)|*.dbp"/>
+  	<Message Key="16" Text="Add a card to the project"/>
+  	<Message Key="17" Text="Card Title"/>
+  	<Message Key="18" Text="Card Description"/>
+  	<Message Key="19" Text="Edit selected card"/>
+  	<Message Key="20" Text="New Project"/>
+  	<Message Key="21" Text="Open Project"/>
+  	<Message Key="22" Text="Save Project"/>
+  	<Message Key="23" Text="Options"/>
+  	<Message Key="24" Text="Add a card"/>
+  	<Message Key="25" Text="Edit card"/>
+  	<Message Key="26" Text="Send selected card to trash"/>
+  	<Message Key="27" Text="Move selected card"/>
+  	<Message Key="28" Text="Archive Manager"/>
+  	<Message Key="29" Text="Trash Manager"/>
+  	<Message Key="30" Text="Options and Settings"/>
+  	<Message Key="31" Text="Choose language"/>
+  	<Message Key="32" Text="Font and colors"/>
+  	<Message Key="33" Text="Font name"/>
+  	<Message Key="34" Text="Font size"/>
+  	<Message Key="35" Text="Border Color"/>
+  	<Message Key="36" Text="Lists Back Color"/>
+  	<Message Key="37" Text="Cards Back Color"/>
+  	<Message Key="38" Text="Text Color"/>
+  	<Message Key="39" Text="Selected Border Color"/>
+  	<Message Key="40" Text="Fly Over Border Color"/>
+  	<Message Key="41" Text="Time before automatic cards move"/>
+  	<Message Key="42" Text="30 days"/>
+  	<Message Key="43" Text="60 days"/>
+  	<Message Key="44" Text="90 days"/>
+  	<Message Key="45" Text="Move card"/>
+  	<Message Key="46" Text="Warning"/>
+  	<Message Key="47" Text="Are you sure you want to send %CARD_TITLE% to the trash?"/>
+  	<Message Key="48" Text="Are you sure you want to empty the archive? This is not reversable!"/>
+  	<Message Key="49" Text="Are you sure you want to empty the trash? This is not reversable!"/>
+  	<Message Key="50" Text="Are you sure you want to delete %CARD_TITLE% from the archive? This is not reversable!"/>
+  	<Message Key="51" Text="Are you sure you want to delete %CARD_TITLE% from the trash? This is not reversable!"/>
+  </Messages>
+</Language>

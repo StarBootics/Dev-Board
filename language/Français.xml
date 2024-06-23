@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Language>
+  <Messages>
+  	<Message Key="0" Text="Dev-Board"/>
+  	<Message Key="1" Text="Idées et Chose à faire"/>
+  	<Message Key="2" Text="En cours"/>
+  	<Message Key="3" Text="Complétées"/>
+  	<Message Key="4" Text="Abandonnées"/>
+  	<Message Key="5" Text="Archives"/>
+  	<Message Key="6" Text="Corbeille"/>
+  	<Message Key="7" Text="Créer un nouveau Projet"/>
+  	<Message Key="8" Text="Nom du projet"/>
+  	<Message Key="9" Text="Créer"/>
+  	<Message Key="10" Text="Ajouter"/>
+  	<Message Key="11" Text="OK"/>
+  	<Message Key="12" Text="Annuler"/>
+  	<Message Key="13" Text="Fermer"/>
+  	<Message Key="14" Text="Sélectionner le projet à ouvrir"/>
+  	<Message Key="15" Text="Dev-Board Projet (*.dbp)|*.dbp"/>
+  	<Message Key="16" Text="Ajouter une carte au projet"/>
+  	<Message Key="17" Text="Titre de la carte"/>
+  	<Message Key="18" Text="Description de la carte"/>
+  	<Message Key="19" Text="Éditer la carte sélectionnée"/>
+  	<Message Key="20" Text="Nouveau Projet"/>
+  	<Message Key="21" Text="Ouvrir un Projet"/>
+  	<Message Key="22" Text="Enregistrer le Projet"/>
+  	<Message Key="23" Text="Options"/>
+  	<Message Key="24" Text="Ajouter une carte"/>
+  	<Message Key="25" Text="Éditer la carte"/>
+  	<Message Key="26" Text="Envoyer la carte à la corbeille"/>
+  	<Message Key="27" Text="Déplacer la carte sélectionnée"/>
+  	<Message Key="28" Text="Gestionnaire d&apos;archive"/>
+  	<Message Key="29" Text="Gestionnaire de la corbeille"/>
+  	<Message Key="30" Text="Options et Ajustements"/>
+  	<Message Key="31" Text="Choix de la langue"/>
+  	<Message Key="32" Text="Police et Couleurs"/>
+  	<Message Key="33" Text="Nom de la police"/>
+  	<Message Key="34" Text="Taille de la police"/>
+  	<Message Key="35" Text="Couleur de la bordure"/>
+  	<Message Key="36" Text="Couleur de fond des listes"/>
+  	<Message Key="37" Text="Couleur de fond des cartes"/>
+  	<Message Key="38" Text="Couleur du texte"/>
+  	<Message Key="39" Text="Couleur de la bordure sélectionnée"/>
+  	<Message Key="40" Text="Couleur de la bordure survolée"/>
+  	<Message Key="41" Text="Temps avant déplacement automatique des cartes"/>
+  	<Message Key="42" Text="30 jours"/>
+  	<Message Key="43" Text="60 jours"/>
+  	<Message Key="44" Text="90 jours"/>
+  	<Message Key="45" Text="Déplacer la carte"/>
+  	<Message Key="46" Text="Gestion des archives"/>
+  	<Message Key="47" Text="Vider l&apos;archive"/>
+  	<Message Key="48" Text="Supprimer la carte"/>
+  	<Message Key="49" Text="Désarchiver la carte"/>
+  	<Message Key="50" Text="Gestion de la corbeille"/>
+  	<Message Key="51" Text="Vider la corbeille"/>
+  	<Message Key="52" Text="Restaurer la carte"/>
+  	<Message Key="53" Text="Attention"/>
+  	<Message Key="54" Text="Êtes-vous sûr de vouloir envoyer %CARD_TITLE% à la corbeille?"/>
+  	<Message Key="55" Text="Êtes-vous sûr de vouloir vider l&apos;archive? Ceci n&apos;est pas réversible!"/>
+  	<Message Key="56" Text="Êtes-vous sûr de vouloir vider la corbeille ? Ceci n&apos;est pas réversible !"/>
+  	<Message Key="57" Text="Êtes-vous sûr de vouloir supprimer %CARD_TITLE% de l&apos;archive? Ceci n&apos;est pas réversible!"/>
+  	<Message Key="58" Text="Êtes-vous sûr de vouloir supprimer %CARD_TITLE% de la corbeille? Ceci n&apos;est pas réversible!"/>
+  </Messages>
+</Language>
