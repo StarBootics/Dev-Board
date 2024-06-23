@@ -15,5 +15,4 @@ The cards created can be dragged from one category to another. The cards placed 
 
 The cards present in the Archive can be dearchived and returned back in the Completed category for another period of 30, 60 or 90 days if they are left into that category. The same thing can be done with the cards  in the Trash, but they will be restored into the Abandoned category.
 
-Please note that I don't have a computer with Window installed or a Mac computer. So you might enconter some problems compiling for Windows or Mac.
-
+Please note that I don't have a computer with Window installed or a Mac computer. So you might encounter some problems compiling for Windows or Mac.
